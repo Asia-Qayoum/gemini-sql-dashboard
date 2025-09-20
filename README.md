@@ -30,6 +30,10 @@ This repository teaches you to build SQL agents with **progressive security impl
 - **Time-series analysis** with date functions and aggregations
 - **Product performance rankings** and trend analysis
 - **Multi-turn conversations** for iterative data exploration
+## screenshots 
+<img width="1900" height="877" alt="image" src="https://github.com/user-attachments/assets/fe661fd8-3ef7-4270-8f23-7ad46c812683" />
+<img width="1907" height="876" alt="image" src="https://github.com/user-attachments/assets/cd68153e-7b69-48c2-ab35-5805ad642e39" />
+
 
 ## 🚀 Quick Start
 
